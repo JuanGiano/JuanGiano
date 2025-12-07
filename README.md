@@ -1,5 +1,18 @@
 # 💫 Sobre mí:
-👋 Hola, soy Juani<br>Desarrollador FrontEnd | React | UX<br><br>Me apasiona construir interfaces modernas, accesibles y orientadas al usuario.<br>Trabajo con tecnologías web y estoy en constante aprendizaje.<br><br>Tecnologías y herramientas:<br>HTML5, CSS3, JavaScript (ES6+)<br>React, Vite<br>Tailwind, SASS<br>Git y GitHub<br><br>Lo que estoy haciendo ahora:<br>✔ Desarrollando proyectos con React<br>✔ Mejorando mis habilidades en diseño UX/UI<br>✔ Contribuyendo a repositorios y construyendo mi portafolio
+
+👋 Hola, soy Juani<br>
+Desarrollador FrontEnd | React | UX/UI<br><br>
+Me especializo en crear interfaces web modernas, responsivas y accesibles, siempre enfocadas en la experiencia de usuario.<br>
+Trabajo a diario con tecnologías web y estoy en aprendizaje continuo para mejorar tanto a nivel técnico como de diseño.<br><br>
+🛠️ Tecnologías y herramientas:<br>
+HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
+React, Vite<br>
+Tailwind, SASS, Styled Components<br>
+Git y GitHub<br><br>
+🚀 Actualmente:<br>
+✔ Desarrollando proyectos con React y consolidando mi stack FrontEnd<br>
+✔ Profundizando en buenas prácticas de diseño UX/UI y maquetación responsive<br>
+✔ Construyendo mi portafolio y manteniendo actividad constante en GitHub
 
 
 # 💻 Stack tecnológico:
